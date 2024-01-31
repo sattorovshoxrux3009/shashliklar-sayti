@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css2?family=Varela&display=swap);
+
+body {
+  font-family: 'Varela', sans-serif;
+}
+body{
+    background-color: black;
+    font-size: 24px;
+    color: white;
+}
